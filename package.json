@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "electron": "^18.0.3",
+    "path": "^0.12.7",
     "serialport": "^10.4.0"
   }
 }
